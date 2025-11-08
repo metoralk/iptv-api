@@ -26,6 +26,7 @@
 | open_use_cache         | 开启使用本地缓存数据，适用于查询请求失败场景（仅针对酒店源与组播源）                                                                                                                                    | True              |
 | open_history           | 开启使用历史更新结果（包含模板与结果文件的接口），合并至本次更新中                                                                                                                                     | True              |
 | open_headers           | 开启使用M3U内含的请求头验证信息，用于测速等操作，注意：只有个别播放器支持播放这类含验证信息的接口，默认为关闭                                                                                                              | False             |
+| app_host               | 页面服务Host地址，默认使用本机IP                                                                                                                                                   |                   |
 | app_port               | 页面服务端口，用于控制页面服务的端口号                                                                                                                                                   | 8000              |
 | cdn_url                | CDN代理加速地址，用于订阅源、频道图标等资源的加速访问                                                                                                                                          |                   |
 | final_file             | 生成结果文件路径                                                                                                                                                              | output/result.txt |
@@ -41,6 +42,8 @@
 | location               | 接口归属地，用于控制结果只包含填写的归属地类型，支持关键字过滤，英文逗号分隔，不填写表示不指定归属地，建议使用靠近使用者的归属地，能提升播放体验                                                                                              |                   |
 | local_file             | 本地源文件路径                                                                                                                                                               | config/local.txt  |
 | local_num              | 结果中偏好的本地源接口数量                                                                                                                                                         | 10                |
+| logo_url               | 频道台标库地址                                                                                                                                                               |                   |
+| logo_type              | 频道台标文件类型                                                                                                                                                              | png               |
 | min_resolution         | 接口最小分辨率，需要开启 open_filter_resolution 才能生效                                                                                                                              | 1920x1080         |
 | max_resolution         | 接口最大分辨率，需要开启 open_filter_resolution 才能生效                                                                                                                              | 1920x1080         |
 | min_speed              | 接口最小速率（单位M/s），需要开启 open_filter_speed 才能生效                                                                                                                             | 0.5               |

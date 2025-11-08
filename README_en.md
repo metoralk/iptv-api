@@ -3,8 +3,14 @@
   <h1 align="center">IPTV-API</h1>
 </div>
 
-<div align="center">A highly customizable IPTV interface update project 📺, with customizable channel menus, automatic live stream acquisition, speed testing, and validation to generate usable results, achieving 『✨instant playback experience🚀』</div>
-<br>
+📺 IPTV live-source auto-update platform — 🤖 fully automated collection, filtering, speed-testing, and generation
+pipeline 🚀. Supports extensive customization; paste the resulting URL into your player to watch
+
+<p align="center">
+    <br>
+    <a href="https://trendshift.io/repositories/12327" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12327" alt="Guovin%2Fiptv-api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Guovin/iptv-api/releases/latest">
     <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
@@ -23,7 +29,11 @@
   </a>
 </p>
 
+<div align="center">
+
 [中文](./README.md) | English
+
+</div>
 
 🎉💻 [IPTV-Web](https://github.com/Guovin/iptv-web): IPTV live stream management platform, supports online playback and
 other features, under development...
@@ -34,14 +44,15 @@ other features, under development...
 - [🔗 Latest results](#latest-results)
 - [⚙️ Config parameter](#Config)
 - [🚀 Quick Start](#quick-start)
+    - [Configuration and Results Directory](#configuration-and-results-directory)
     - [Workflow](#workflow)
     - [Command Line](#command-line)
     - [GUI Software](#gui-software)
     - [Docker](#docker)
 - [📖 Detailed Tutorial](./docs/tutorial_en.md)
 - [🗓️ Changelog](./CHANGELOG.md)
-- [❤️ Appreciate](#appreciate)
-- [👀 Follow the public account](#follow)
+- [❤️ Donations](#donations)
+- [👀 Follow](#follow)
 - [⭐️ Star History](#star-history)
 - [📣 Disclaimer](#disclaimer)
 - [⚖️ License](#license)
@@ -74,11 +85,12 @@ other features, under development...
 | Feature                               | Status | Description                                                                                                |
 |:--------------------------------------|:------:|:-----------------------------------------------------------------------------------------------------------|
 | **Custom Templates**                  |   ✅    | Generate personalized channels as you wish                                                                 |
-| **Channel Aliases**                   |   ✅    | Improve channel result acquisition and accuracy                                                            |
+| **Channel Alias**                     |   ✅    | Improves channel result coverage and accuracy, supports regular expressions                                |
 | **Multiple Source Types**             |   ✅    | Supports local sources, multicast, hotel sources, subscriptions, and keyword search                        |
 | **RTMP Streaming**                    |   ✅    | Supports Live and HLS modes to enhance live playback experience                                            |
 | **Playback Interfaces**               |   ✅    | Supports acquisition and generation of playback interfaces                                                 |
 | **EPG (Electronic Program Guide)**    |   ✅    | Displays channel preview content                                                                           |
+| **Channel Logo**                      |   ✅    | Supports custom channel logo library sources                                                               |
 | **Interface Speed Test & Validation** |   ✅    | Measures latency, speed, resolution, and filters invalid interfaces                                        |
 | **Advanced Preferences**              |   ✅    | IPv4/IPv6, interface sorting priority, quantity configuration, blacklist/whitelist, region & ISP filtering |
 | **Scheduled Tasks**                   |   ✅    | Automatically updates at 6:00 and 18:00 Beijing time daily by default; customizable schedule               |
@@ -119,6 +131,10 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 
 ## Config
 
+> [!NOTE]\
+> The following configuration items are located in `config/config.ini` and can be modified via the configuration file or
+> environment variables. Save changes and restart to apply.
+
 | Configuration Item     | Description                                                                                                                                                                                                                                                                                                                                                                                                                      | Default Value     |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------|
 | open_driver            | Enable browser execution, If there are no updates, this mode can be enabled, which consumes more performance                                                                                                                                                                                                                                                                                                                     | False             |
@@ -147,6 +163,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 | open_use_cache         | Enable the use of local cache data, applicable to the query request failure scenario (only for hotel sources and multicast sources)                                                                                                                                                                                                                                                                                              | True              |
 | open_history           | Enable the use of historical update results (including the interface for template and result files) and merge them into the current update                                                                                                                                                                                                                                                                                       | True              |
 | open_headers           | Enable to use the request header verification information contained in M3U, used for speed measurement and other operations. Note: Only a few players support playing this type of interface with verification information, which is turned off by default                                                                                                                                                                       | False             |
+| app_host               | Page service Host address, default is to use the local machine IP                                                                                                                                                                                                                                                                                                                                                                |                   |
 | app_port               | Page service port, used to control the port number of the page service                                                                                                                                                                                                                                                                                                                                                           | 8000              |
 | cdn_url                | CDN proxy acceleration address, used for accelerated access to subscription sources, channel icons and other resources                                                                                                                                                                                                                                                                                                           |                   |
 | final_file             | Generated result file path                                                                                                                                                                                                                                                                                                                                                                                                       | output/result.txt |
@@ -162,6 +179,8 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 | location               | Interface location, used to control the result to only include the filled location type, supports keyword filtering, separated by English commas, not filled in means no location specified, it is recommended to use the location close to the user, which can improve the playback experience                                                                                                                                  |                   |
 | local_file             | Local source file path                                                                                                                                                                                                                                                                                                                                                                                                           | config/local.txt  |
 | local_num              | Preferred number of local source interfaces in the result                                                                                                                                                                                                                                                                                                                                                                        | 10                |
+| logo_url               | Channel logo library URL address                                                                                                                                                                                                                                                                                                                                                                                                 |                   |
+| logo_type              | Channel logo file type                                                                                                                                                                                                                                                                                                                                                                                                           | png               |
 | min_resolution         | Minimum interface resolution, requires enabling open_filter_resolution to take effect                                                                                                                                                                                                                                                                                                                                            | 1920x1080         |
 | max_resolution         | Maximum interface resolution, requires enabling open_filter_resolution to take effect                                                                                                                                                                                                                                                                                                                                            | 1920x1080         |
 | min_speed              | Minimum interface speed (M/s), requires enabling open_filter_speed to take effect                                                                                                                                                                                                                                                                                                                                                | 0.5               |
@@ -184,6 +203,36 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 | update_time_position   | Update time display position, need to enable open_update_time to take effect, optional values: top, bottom, top: display at the top of the result, bottom: display at the bottom of the result                                                                                                                                                                                                                                   | top               |
 
 ## Quick Start
+
+### Configuration and Results Directory
+
+```
+iptv-api/                  # Project root directory
+├── config                 # Configuration files directory, includes config files, templates, etc.
+│   └── config.ini         # Configuration parameters file
+│   └── rtp                # Multicast IPs for each region/operator
+│   └── demo.txt           # Channel template
+│   └── alias.txt          # Channel aliases
+│   └── blacklist.txt      # Interface blacklist
+│   └── whitelist.txt      # Interface whitelist
+│   └── subscribe.txt      # Channel subscription sources list
+│   └── local.txt          # Local source file
+│   └── epg.txt            # EPG subscription sources list
+├── output                 # Output files directory, includes generated result files, etc.
+│   └── data               # Result data cache directory
+│   └── epg                # EPG result directory
+│   └── ipv4               # IPv4 result directory
+│   └── ipv6               # IPv6 result directory
+│   └── result.m3u/txt     # m3u/txt result
+│   └── live.m3u/txt       # RTMP live stream result
+│   └── hls.m3u/txt        # RTMP hls stream result
+│   └── log                # Log files directory
+│       └── result.log     # Valid result log
+│       └── speed_test.log # Speed test log
+│       └── statistic.log  # Statistics result log
+│       └── nomatch.log    # Unmatched channel records
+└── source.json            # VOD source configuration file
+```
 
 ### Workflow
 
@@ -259,10 +308,13 @@ Taking the host path /etc/docker as an example:
 
 ##### Environment Variables:
 
-| Variable | Description          | Default Value      |
-|:---------|:---------------------|:-------------------|
-| APP_HOST | Service host address | "http://localhost" |
-| APP_PORT | Service port         | 8000               |
+| Variable | Description          | Default Value    |
+|:---------|:---------------------|:-----------------|
+| APP_HOST | Service host address | Local machine IP |
+| APP_PORT | Service port         | 8000             |
+
+In addition to the environment variables listed above, you can also override the [configuration items](#Config) in the
+configuration file via environment variables.
 
 #### 3. Update Results
 
@@ -280,6 +332,8 @@ Taking the host path /etc/docker as an example:
 | /content        | Endpoint content                                |
 | /log/result     | Log of valid results                            |
 | /log/speed-test | Log of all interfaces involved in speed testing |
+| /log/statistic  | Log of statistics results                       |
+| /log/nomatch    | Log of unmatched channels                       |
 
 - RTMP Streaming:
 
@@ -311,23 +365,29 @@ Taking the host path /etc/docker as an example:
 
 [Changelog](./CHANGELOG.md)
 
-## Appreciate
+## Follow
+
+### GitHub
+
+Follow my GitHub account [Guovin](https://github.com/Guovin) to find more useful projects
+
+### WeChat public account
+
+WeChat public account search for Govin, or scan the code to receive updates and learn more tips:
+
+![Wechat public account](./static/images/qrcode.jpg)
+
+## Star History
+
+[![Star History Chart](https://starchart.cc/Guovin/iptv-api.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
+
+## Donations
 
 <div>Development and maintenance are not easy, please buy me a coffee ~</div>
 
 | Alipay                                | Wechat                                    |
 |---------------------------------------|-------------------------------------------|
 | ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
-
-## Follow
-
-Wechat public account search for Govin, or scan the code to receive updates and learn more tips:
-
-![Wechat public account](./static/images/qrcode.jpg)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Guovin/iptv-api&type=Date)](https://star-history.com/#Guovin/iptv-api&Date)
 
 ## Disclaimer
 
