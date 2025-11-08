@@ -1,67 +1,67 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="ARIRANG阿里郎频道" tvg-name="ARIRANG阿里郎频道" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎频道.png" group-title="其他",ARIRANG阿里郎頻道
+#EXTINF:-1,tvg-id="ARIRANG阿里郎频道" tvg-name="ARIRANG阿里郎频道" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎频道.png" group-title="港澳台",ARIRANG阿里郎頻道
 https://jp.eupacn.netlib.re/?id=QVJJUkFORamYvamHjOmDjumguamBkwxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.v1.mk/logo/BLOOMBERGTV.png" group-title="其他",Bloomberg TV
+#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.v1.mk/logo/BLOOMBERGTV.png" group-title="港澳台",Bloomberg TV
 https://jp.eupacn.netlib.re/?id=Qmxvb21iZXJnIFRW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="https://epg.v1.mk/logo/CLASSICA古典乐.png" group-title="其他",CLASSICA 古典樂
+#EXTINF:-1,tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="https://epg.v1.mk/logo/CLASSICA古典乐.png" group-title="港澳台",CLASSICA 古典樂
 https://jp.eupacn.netlib.re/?id=Q0xBU1NJQ0Eg5Yak5YW45qiC&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CI罪案侦查频道" tvg-name="CI罪案侦查频道" tvg-logo="https://epg.v1.mk/logo/CI罪案侦查频道.png" group-title="其他",CI 罪案偵查頻道
+#EXTINF:-1,tvg-id="CI罪案侦查频道" tvg-name="CI罪案侦查频道" tvg-logo="https://epg.v1.mk/logo/CI罪案侦查频道.png" group-title="港澳台",CI 罪案偵查頻道
 https://jp.eupacn.netlib.re/?id=Q0kg572q5qGI5YG15pal6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://epg.v1.mk/logo/CinemaWorld.png" group-title="其他",CinemaWorld
+#EXTINF:-1,tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://epg.v1.mk/logo/CinemaWorld.png" group-title="港澳台",CinemaWorld
 https://jp.eupacn.netlib.re/?id=Q2luZW1hV29ybGQx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CNBCASIA财经台" tvg-name="CNBCASIA财经台" tvg-logo="https://epg.v1.mk/logo/CNBCASIA财经台.png" group-title="其他",CNBC Asia 財經台
+#EXTINF:-1,tvg-id="CNBCASIA财经台" tvg-name="CNBCASIA财经台" tvg-logo="https://epg.v1.mk/logo/CNBCASIA财经台.png" group-title="港澳台",CNBC Asia 財經台
 https://jp.eupacn.netlib.re/?id=Q05CQyBBc2lhIOiyoee2kaWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="其他",DreamWorks 夢工廠動畫
+#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="港澳台",DreamWorks 夢工廠動畫
 https://jp.eupacn.netlib.re/?id=RHJlYW1Xb3JrcyDlpKLlt6Xlu6Dli5Xnlasx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="其他",DW德國之聲
+#EXTINF:-1,tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="港澳台",DW德國之聲
 https://jp.eupacn.netlib.re/?id=RFflvrflnIvkuYvogbIx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png" group-title="其他",ELTV生活英語台
+#EXTINF:-1,tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png" group-title="港澳台",ELTV生活英語台
 https://jp.eupacn.netlib.re/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="FRANCE24(English)" tvg-name="FRANCE24(English)" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png" group-title="其他",FRANCE24 英文台
+#EXTINF:-1,tvg-id="FRANCE24(English)" tvg-name="FRANCE24(English)" tvg-logo="https://epg.v1.mk/logo/FRANCE24(English).png" group-title="港澳台",FRANCE24 英文台
 https://jp.eupacn.netlib.re/?id=RlJBTkNFMjQg6Iux5paH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="其他",Global Trekker
+#EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="港澳台",Global Trekker
 https://jp.eupacn.netlib.re/?id=R2xvYmFsIFRyZWtrZXIx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://epg.v1.mk/logo/GINXESPORTSTV.png" group-title="其他",GINX Esports TV
+#EXTINF:-1,tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://epg.v1.mk/logo/GINXESPORTSTV.png" group-title="港澳台",GINX Esports TV
 https://jp.eupacn.netlib.re/?id=R0lOWCBFc3BvcnRzIFRW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="HISTORY历史频道" tvg-name="HISTORY历史频道" tvg-logo="https://epg.v1.mk/logo/HISTORY历史频道.png" group-title="其他",History 歷史頻道
+#EXTINF:-1,tvg-id="HISTORY历史频道" tvg-name="HISTORY历史频道" tvg-logo="https://epg.v1.mk/logo/HISTORY历史频道.png" group-title="港澳台",History 歷史頻道
 https://jp.eupacn.netlib.re/?id=SGlzdG9yeSDmrbflj7LpoLvpgZMx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://epg.v1.mk/logo/HITS频道.png" group-title="其他",HITS頻道
+#EXTINF:-1,tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://epg.v1.mk/logo/HITS频道.png" group-title="港澳台",HITS頻道
 https://jp.eupacn.netlib.re/?id=SElUUamguamBkwxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",INULTRA
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="港澳台",INULTRA
 https://jp.eupacn.netlib.re/?id=SU5VTFRSQQxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="KLT靖天国际台" tvg-name="KLT靖天国际台" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际台.png" group-title="其他",KLT-靖天國際台
+#EXTINF:-1,tvg-id="KLT靖天国际台" tvg-name="KLT靖天国际台" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际台.png" group-title="港澳台",KLT-靖天國際台
 https://jp.eupacn.netlib.re/?id=S0xULemdluWkqeWciamamaWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="LiveABC互动英语频道" tvg-name="LiveABC互动英语频道" tvg-logo="https://epg.v1.mk/logo/LiveABC互动英语频道.png" group-title="其他",LiveABC互動英語頻道
+#EXTINF:-1,tvg-id="LiveABC互动英语频道" tvg-name="LiveABC互动英语频道" tvg-logo="https://epg.v1.mk/logo/LiveABC互动英语频道.png" group-title="港澳台",LiveABC互動英語頻道
 https://jp.eupacn.netlib.re/?id=TGl2ZUFCQaS6kuWLleiLseiqnumguamBkwxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="LIFETIME娱乐频道" tvg-name="LIFETIME娱乐频道" tvg-logo="https://epg.v1.mk/logo/LIFETIME娱乐频道.png" group-title="其他",Lifetime 娛樂頻道
+#EXTINF:-1,tvg-id="LIFETIME娱乐频道" tvg-name="LIFETIME娱乐频道" tvg-logo="https://epg.v1.mk/logo/LIFETIME娱乐频道.png" group-title="港澳台",Lifetime 娛樂頻道
 https://jp.eupacn.netlib.re/?id=TGlmZXRpbWUg5aib5qiC6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="其他",Love Nature
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="港澳台",Love Nature
 https://jp.eupacn.netlib.re/?id=TG92ZSBOYXR1cmUx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://epg.v1.mk/logo/LUXETVCHANNEL.png" group-title="其他",LUXE TV Channel
+#EXTINF:-1,tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://epg.v1.mk/logo/LUXETVCHANNEL.png" group-title="港澳台",LUXE TV Channel
 https://jp.eupacn.netlib.re/?id=TFVYRSBUViBDaGFubmVs&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="其他",MOMO親子台
+#EXTINF:-1,tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="港澳台",MOMO親子台
 https://jp.eupacn.netlib.re/?id=TU9NTaimquWtkOWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="MTVLIVEHD音乐频道" tvg-name="MTVLIVEHD音乐频道" tvg-logo="https://epg.v1.mk/logo/MTVLIVEHD音乐频道.png" group-title="其他",MTV Live HD 音樂頻道
+#EXTINF:-1,tvg-id="MTVLIVEHD音乐频道" tvg-name="MTVLIVEHD音乐频道" tvg-logo="https://epg.v1.mk/logo/MTVLIVEHD音乐频道.png" group-title="港澳台",MTV Live HD 音樂頻道
 https://jp.eupacn.netlib.re/?id=TVRWIExpdmUgSEQg6Zaz5qiC6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.v1.mk/logo/MEZZOLIVEHD.png" group-title="其他",Mezzo Live HD
+#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.v1.mk/logo/MEZZOLIVEHD.png" group-title="港澳台",Mezzo Live HD
 https://jp.eupacn.netlib.re/?id=TWV6em8gTGl2ZSBIRAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="其他",MagellanTV頻道 (麥哲倫頻道) 
+#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="港澳台",MagellanTV頻道 (麥哲倫頻道) 
 https://jp.eupacn.netlib.re/?id=TWFnZWxsYW5UVumguamBkyAo6bql5ZOy5YCr6aC76YGTKSAx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="MYCINEMAEUROPEHD我的欧洲电影" tvg-name="MYCINEMAEUROPEHD我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/MYCINEMAEUROPEHD我的欧洲电影.png" group-title="其他",My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1,tvg-id="MYCINEMAEUROPEHD我的欧洲电影" tvg-name="MYCINEMAEUROPEHD我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/MYCINEMAEUROPEHD我的欧洲电影.png" group-title="港澳台",My Cinema Europe HD 我的歐洲電影
 https://jp.eupacn.netlib.re/?id=TXkgQ2luZW1hIEV1cm9wZSBIRCDmiJHnmoTmrZDmtLLpm7vlvbEx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="其他",Nick Jr. 兒童頻道
+#EXTINF:-1,tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="港澳台",Nick Jr. 兒童頻道
 https://jp.eupacn.netlib.re/?id=TmljayBKci4g5YWS56ul6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="NICETV靖天欢乐台" tvg-name="NICETV靖天欢乐台" tvg-logo="https://epg.v1.mk/logo/NICETV靖天欢乐台.png" group-title="其他",Nice TV 靖天歡樂台
+#EXTINF:-1,tvg-id="NICETV靖天欢乐台" tvg-name="NICETV靖天欢乐台" tvg-logo="https://epg.v1.mk/logo/NICETV靖天欢乐台.png" group-title="港澳台",Nice TV 靖天歡樂台
 https://jp.eupacn.netlib.re/?id=TmljZSBUViDpnZblpKnmraHmqILlj7Ax&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="港澳台",NHK WORLD-JAPAN
 https://jp.eupacn.netlib.re/?id=TkhLIFdPUkxELUpBUEFO&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="PETCLUBTV" tvg-name="PETCLUBTV" tvg-logo="https://epg.v1.mk/logo/PETCLUBTV.png" group-title="其他",Pet Club TV
+#EXTINF:-1,tvg-id="PETCLUBTV" tvg-name="PETCLUBTV" tvg-logo="https://epg.v1.mk/logo/PETCLUBTV.png" group-title="港澳台",Pet Club TV
 https://jp.eupacn.netlib.re/?id=UGV0IENsdWIgVFYx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="其他",ROCK Entertainment
+#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="港澳台",ROCK Entertainment
 https://jp.eupacn.netlib.re/?id=Uk9DSyBFbnRlcnRhaW5tZW50&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="其他",ROCK Action
+#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港澳台",ROCK Action
 https://jp.eupacn.netlib.re/?id=Uk9DSyBBY3Rpb24x&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://epg.v1.mk/logo/SBN全球财经台.png" group-title="其他",SBN全球財經台
+#EXTINF:-1,tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://epg.v1.mk/logo/SBN全球财经台.png" group-title="港澳台",SBN全球財經台
 https://jp.eupacn.netlib.re/?id=U0JO5YWo55CD6LKh57aT5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采台.png" group-title="港澳台",TVBS精采台
 https://jp.eupacn.netlib.re/?id=VFZCUaeyvumHhaWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
@@ -71,159 +71,159 @@ https://jp.eupacn.netlib.re/?id=VFZCUaaWsOiBngxx&auth=a0d293b30c3bb3b3fea52ac940
 https://jp.eupacn.netlib.re/?id=VFZCUwxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐台.png" group-title="港澳台",TVBS歡樂台
 https://jp.eupacn.netlib.re/?id=VFZCUaatoeaoguWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.v1.mk/logo/TRACEURBAN.png" group-title="其他",TRACE Urban
+#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.v1.mk/logo/TRACEURBAN.png" group-title="港澳台",TRACE Urban
 https://jp.eupacn.netlib.re/?id=VFJBQ0UgVXJiYW4x&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://epg.v1.mk/logo/TRACESPORTSTARS.png" group-title="其他",TRACE Sport Stars
+#EXTINF:-1,tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://epg.v1.mk/logo/TRACESPORTSTARS.png" group-title="港澳台",TRACE Sport Stars
 https://jp.eupacn.netlib.re/?id=VFJBQ0UgU3BvcnQgU3RhcnMx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS綜藝台
 https://jp.eupacn.netlib.re/?id=VFZCUae2nOiXneWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS台劇台
 https://jp.eupacn.netlib.re/?id=VFZCUaWPsOWKhaWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="其他",amc電影台
+#EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="港澳台",amc電影台
 https://jp.eupacn.netlib.re/?id=YW1j6Zu75b2x5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="IFUN" tvg-name="IFUN" tvg-logo="https://epg.v1.mk/logo/IFUN.png" group-title="其他",fun探索娛樂台
+#EXTINF:-1,tvg-id="IFUN" tvg-name="IFUN" tvg-logo="https://epg.v1.mk/logo/IFUN.png" group-title="港澳台",fun探索娛樂台
 https://jp.eupacn.netlib.re/?id=ZnVu5o6i57Si5aib5qiC5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="其他",三立綜合台
+#EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="港澳台",三立綜合台
 https://jp.eupacn.netlib.re/?id=5LiJ56uL57ac5ZCI5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="其他",三立新聞iNEWS
+#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港澳台",三立新聞iNEWS
 https://jp.eupacn.netlib.re/?id=5LiJ56uL5paw6IGeaU5FV1Mx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="其他",中視
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中視
 https://jp.eupacn.netlib.re/?id=5Lit6KaW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="其他",中視經典台
+#EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="港澳台",中視經典台
 https://jp.eupacn.netlib.re/?id=5Lit6KaW57aT5YW45Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="其他",中視菁采台
+#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="港澳台",中視菁采台
 https://jp.eupacn.netlib.re/?id=5Lit6KaW6IaB6YeH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="其他",中視新聞
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港澳台",中視新聞
 https://jp.eupacn.netlib.re/?id=5Lit6KaW5paw6IGe&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="其他",中天新聞台
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="港澳台",中天新聞台
 https://jp.eupacn.netlib.re/?id=5Lit5aSp5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.v1.mk/logo/亚洲旅游台.png" group-title="其他",亞洲旅遊台
+#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.v1.mk/logo/亚洲旅游台.png" group-title="港澳台",亞洲旅遊台
 https://jp.eupacn.netlib.re/?id=5Lqe5rSy5peF6YGK5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.v1.mk/logo/人间卫视.png" group-title="其他",人間衛視
+#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.v1.mk/logo/人间卫视.png" group-title="港澳台",人間衛視
 https://jp.eupacn.netlib.re/?id=5Lq66ZaT6KGb6KaW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://epg.v1.mk/logo/八大综艺台.png" group-title="其他",八大綜藝台
+#EXTINF:-1,tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://epg.v1.mk/logo/八大综艺台.png" group-title="港澳台",八大綜藝台
 https://jp.eupacn.netlib.re/?id=5YWr5aSn57ac6Jed5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.v1.mk/logo/八大精彩台.png" group-title="其他",八大精彩台
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.v1.mk/logo/八大精彩台.png" group-title="港澳台",八大精彩台
 https://jp.eupacn.netlib.re/?id=5YWr5aSn57Ka5b2p5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="其他",公視戲劇
+#EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="港澳台",公視戲劇
 https://jp.eupacn.netlib.re/?id=5YWs6KaW5oiy5YqH&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.v1.mk/logo/半岛国际新闻台.png" group-title="其他",半島國際新聞台
+#EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.v1.mk/logo/半岛国际新闻台.png" group-title="港澳台",半島國際新聞台
 https://jp.eupacn.netlib.re/?id=5Y2K5bO25ZyL6Zqb5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://epg.v1.mk/logo/原住民族电视台.png" group-title="港澳台",原住民族電視台
 https://jp.eupacn.netlib.re/?id=5Y6f5L2P5rCR5peP6Zu76KaW5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://epg.v1.mk/logo/国会频道1.png" group-title="其他",國會頻道1
+#EXTINF:-1,tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://epg.v1.mk/logo/国会频道1.png" group-title="港澳台",國會頻道1
 https://jp.eupacn.netlib.re/?id=5ZyL5pyD6aC76YGTMQxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://epg.v1.mk/logo/国会频道2.png" group-title="其他",國會頻道2
+#EXTINF:-1,tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://epg.v1.mk/logo/国会频道2.png" group-title="港澳台",國會頻道2
 https://jp.eupacn.netlib.re/?id=5ZyL5pyD6aC76YGTMgxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://epg.v1.mk/logo/大爱电视.png" group-title="其他",大愛電視
+#EXTINF:-1,tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://epg.v1.mk/logo/大爱电视.png" group-title="港澳台",大愛電視
 https://jp.eupacn.netlib.re/?id=5aSn5oSb6Zu76KaW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="其他",大愛二台
+#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大愛二台
 https://jp.eupacn.netlib.re/?id=5aSn5oSb5LqM5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="其他",好消息
+#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="港澳台",好消息
 https://jp.eupacn.netlib.re/?id=5aW95raI5oGv&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://epg.v1.mk/logo/好消息2台.png" group-title="其他",好消息2台
+#EXTINF:-1,tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://epg.v1.mk/logo/好消息2台.png" group-title="港澳台",好消息2台
 https://jp.eupacn.netlib.re/?id=5aW95raI5oGvMuWPsAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="其他",客家電視台
+#EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="港澳台",客家電視台
 https://jp.eupacn.netlib.re/?id=5a6i5a626Zu76KaW5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="其他",寰宇新聞台
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="港澳台",寰宇新聞台
 https://jp.eupacn.netlib.re/?id=5aaw5a6H5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="其他",寰宇新聞台灣台
+#EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="港澳台",寰宇新聞台灣台
 https://jp.eupacn.netlib.re/?id=5aaw5a6H5paw6IGe5Yaw54Gj5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="尼克儿童频道" tvg-name="尼克儿童频道" tvg-logo="https://epg.v1.mk/logo/尼克儿童频道.png" group-title="其他",尼克兒童頻道
+#EXTINF:-1,tvg-id="尼克儿童频道" tvg-name="尼克儿童频道" tvg-logo="https://epg.v1.mk/logo/尼克儿童频道.png" group-title="港澳台",尼克兒童頻道
 https://jp.eupacn.netlib.re/?id=5bC85YWL5YWS56ul6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://epg.v1.mk/logo/幸福空间居家台.png" group-title="其他",幸福空間居家台
+#EXTINF:-1,tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://epg.v1.mk/logo/幸福空间居家台.png" group-title="港澳台",幸福空間居家台
 https://jp.eupacn.netlib.re/?id=5bm456aP56m66ZaT5bGF5a625Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.v1.mk/logo/影迷数位纪实台.png" group-title="其他",影迷數位紀實台
+#EXTINF:-1,tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.v1.mk/logo/影迷数位纪实台.png" group-title="港澳台",影迷數位紀實台
 https://jp.eupacn.netlib.re/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://epg.v1.mk/logo/影迷数位电影台.png" group-title="其他",影迷數位電影台
+#EXTINF:-1,tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://epg.v1.mk/logo/影迷数位电影台.png" group-title="港澳台",影迷數位電影台
 https://jp.eupacn.netlib.re/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.v1.mk/logo/爱尔达娱乐台.png" group-title="其他",愛爾達娛樂台
+#EXTINF:-1,tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.v1.mk/logo/爱尔达娱乐台.png" group-title="港澳台",愛爾達娛樂台
 https://jp.eupacn.netlib.re/?id=5oSb54ia6YGU5aib5qiC5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1.png" group-title="其他",愛爾達生活旅遊台
+#EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1.png" group-title="港澳台",愛爾達生活旅遊台
 https://jp.eupacn.netlib.re/?id=5oSb54ia6YGU55Sf5rS75peF6YGK5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="ELTA戏剧" tvg-name="ELTA戏剧" tvg-logo="https://epg.v1.mk/logo/ELTA戏剧.png" group-title="其他",戲劇免費看 1台
+#EXTINF:-1,tvg-id="ELTA戏剧" tvg-name="ELTA戏剧" tvg-logo="https://epg.v1.mk/logo/ELTA戏剧.png" group-title="港澳台",戲劇免費看 1台
 https://jp.eupacn.netlib.re/?id=5oiy5YqH5YWN6LK755yLIDHlj7Ax&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="其他",時尚運動X
+#EXTINF:-1,tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="港澳台",時尚運動X
 https://jp.eupacn.netlib.re/?id=5pmC5bCa6YGL5YuVWAxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育台.png" group-title="其他",智林體育台
+#EXTINF:-1,tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育台.png" group-title="港澳台",智林體育台
 https://jp.eupacn.netlib.re/?id=5pm65p6X6auU6IKy5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森购物1" tvg-name="东森购物1" tvg-logo="https://epg.v1.mk/logo/东森购物1.png" group-title="其他",東森購物四台
+#EXTINF:-1,tvg-id="东森购物1" tvg-name="东森购物1" tvg-logo="https://epg.v1.mk/logo/东森购物1.png" group-title="港澳台",東森購物四台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu6LO854mp5Zub5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森购物一台" tvg-name="东森购物一台" tvg-logo="https://epg.v1.mk/logo/东森购物一台.png" group-title="其他",東森購物一台
+#EXTINF:-1,tvg-id="东森购物一台" tvg-name="东森购物一台" tvg-logo="https://epg.v1.mk/logo/东森购物一台.png" group-title="港澳台",東森購物一台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu6LO854mp5LiA5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.v1.mk/logo/东森新闻台.png" group-title="其他",東森新聞台
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.v1.mk/logo/东森新闻台.png" group-title="港澳台",東森新聞台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.v1.mk/logo/东森财经新闻台.png" group-title="其他",東森財經新聞台
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.v1.mk/logo/东森财经新闻台.png" group-title="港澳台",東森財經新聞台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森购物二台" tvg-name="东森购物二台" tvg-logo="https://epg.v1.mk/logo/东森购物二台.png" group-title="其他",東森購物二台
+#EXTINF:-1,tvg-id="东森购物二台" tvg-name="东森购物二台" tvg-logo="https://epg.v1.mk/logo/东森购物二台.png" group-title="港澳台",東森購物二台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu6LO854mp5LqM5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="东森购物1" tvg-name="东森购物1" tvg-logo="https://epg.v1.mk/logo/东森购物1.png" group-title="其他",東森購物三台
+#EXTINF:-1,tvg-id="东森购物1" tvg-name="东森购物1" tvg-logo="https://epg.v1.mk/logo/东森购物1.png" group-title="港澳台",東森購物三台
 https://jp.eupacn.netlib.re/?id=5p2x5qOu6LO854mp5LiJ5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="其他",民視第一台
+#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="港澳台",民視第一台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW56ys5LiA5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="其他",民視台灣台
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="港澳台",民視台灣台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW5Yaw54Gj5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="其他",民視
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民視
 https://jp.eupacn.netlib.re/?id=5rCR6KaW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="其他",民視新聞台
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民視新聞台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.v1.mk/logo/民视综艺台.png" group-title="其他",民視綜藝台
+#EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.v1.mk/logo/民视综艺台.png" group-title="港澳台",民視綜藝台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW57ac6Jed5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://epg.v1.mk/logo/民视旅游台.png" group-title="其他",民視旅遊台
+#EXTINF:-1,tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://epg.v1.mk/logo/民视旅游台.png" group-title="港澳台",民視旅遊台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW5peF6YGK5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://epg.v1.mk/logo/民视影剧台.png" group-title="其他",民視影劇台
+#EXTINF:-1,tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://epg.v1.mk/logo/民视影剧台.png" group-title="港澳台",民視影劇台
 https://jp.eupacn.netlib.re/?id=5rCR6KaW5b2x5YqH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://epg.v1.mk/logo/滚动力ROLLOR.png" group-title="其他",滾動力rollor
+#EXTINF:-1,tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://epg.v1.mk/logo/滚动力ROLLOR.png" group-title="港澳台",滾動力rollor
 https://jp.eupacn.netlib.re/?id=5rua5YuV5Yqbcm9sbG9y&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="CIBN聚鲨精选" tvg-name="CIBN聚鲨精选" tvg-logo="https://epg.v1.mk/logo/CIBN聚鲨精选.png" group-title="其他",精選動漫台
+#EXTINF:-1,tvg-id="CIBN聚鲨精选" tvg-name="CIBN聚鲨精选" tvg-logo="https://epg.v1.mk/logo/CIBN聚鲨精选.png" group-title="港澳台",精選動漫台
 https://jp.eupacn.netlib.re/?id=57Ka6YG45YuV5ryr5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://epg.v1.mk/logo/经典电影台.png" group-title="其他",經典電影台
+#EXTINF:-1,tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://epg.v1.mk/logo/经典电影台.png" group-title="港澳台",經典電影台
 https://jp.eupacn.netlib.re/?id=57aT5YW46Zu75b2x5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="https://epg.v1.mk/logo/经典卡通台.png" group-title="其他",經典卡通台
+#EXTINF:-1,tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="https://epg.v1.mk/logo/经典卡通台.png" group-title="港澳台",經典卡通台
 https://jp.eupacn.netlib.re/?id=57aT5YW45Y2h6YCa5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="其他",華視
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視
 https://jp.eupacn.netlib.re/?id=6Iav6KaW&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻.png" group-title="其他",華視新聞
+#EXTINF:-1,tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻.png" group-title="港澳台",華視新聞
 https://jp.eupacn.netlib.re/?id=6Iav6KaW5paw6IGe&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://epg.v1.mk/logo/视纳华仁纪实频道.png" group-title="其他",視納華仁紀實頻道
+#EXTINF:-1,tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://epg.v1.mk/logo/视纳华仁纪实频道.png" group-title="港澳台",視納華仁紀實頻道
 https://jp.eupacn.netlib.re/?id=6KaW57SN6Iav5LuB57SA5aam6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="其他",豬哥亮歌廳秀
+#EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="港澳台",豬哥亮歌廳秀
 https://jp.eupacn.netlib.re/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://epg.v1.mk/logo/车迷TV.png" group-title="其他",車迷TV
+#EXTINF:-1,tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://epg.v1.mk/logo/车迷TV.png" group-title="港澳台",車迷TV
 https://jp.eupacn.netlib.re/?id=6LuK6La3VFYx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="达文西" tvg-name="达文西" tvg-logo="https://epg.v1.mk/logo/达文西.png" group-title="其他",達文西頻道
+#EXTINF:-1,tvg-id="达文西" tvg-name="达文西" tvg-logo="https://epg.v1.mk/logo/达文西.png" group-title="港澳台",達文西頻道
 https://jp.eupacn.netlib.re/?id=6YGU5paH6KWz6aC76YGT&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://epg.v1.mk/logo/采昌影剧台.png" group-title="其他",采昌影劇台
+#EXTINF:-1,tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://epg.v1.mk/logo/采昌影剧台.png" group-title="港澳台",采昌影劇台
 https://jp.eupacn.netlib.re/?id=6YeH5piM5b2x5YqH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://epg.v1.mk/logo/金光布袋戏.png" group-title="其他",金光布袋戲
+#EXTINF:-1,tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://epg.v1.mk/logo/金光布袋戏.png" group-title="港澳台",金光布袋戲
 https://jp.eupacn.netlib.re/?id=6YeR5YWJ5biD6KKL5oiy&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="其他",鏡電視新聞台
+#EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="港澳台",鏡電視新聞台
 https://jp.eupacn.netlib.re/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="电影原声台CMusic" tvg-name="电影原声台CMusic" tvg-logo="https://epg.v1.mk/logo/电影原声台CMusic.png" group-title="其他",電影原聲台CMusic
+#EXTINF:-1,tvg-id="电影原声台CMusic" tvg-name="电影原声台CMusic" tvg-logo="https://epg.v1.mk/logo/电影原声台CMusic.png" group-title="港澳台",電影原聲台CMusic
 https://jp.eupacn.netlib.re/?id=6Zu75b2x5Y6f6IGy5YawQ011c2lj&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="其他",霹靂布袋戲
+#EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="港澳台",霹靂布袋戲
 https://jp.eupacn.netlib.re/?id=6Zy56Z2C5biD6KKL5oiy&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="其他",靖天綜合台
+#EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="港澳台",靖天綜合台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="其他",靖天日本台
+#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="港澳台",靖天日本台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp5pel5pys5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png" group-title="其他",靖天卡通台
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png" group-title="港澳台",靖天卡通台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://epg.v1.mk/logo/靖洋卡通NICEBINGO.png" group-title="其他",靖洋卡通Nice Bingo
+#EXTINF:-1,tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://epg.v1.mk/logo/靖洋卡通NICEBINGO.png" group-title="港澳台",靖洋卡通Nice Bingo
 https://jp.eupacn.netlib.re/?id=6Z2W5rSL5Y2h6YCaTmljZSBCaW5nbwxx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.v1.mk/logo/靖天育乐台.png" group-title="其他",靖天育樂台
+#EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.v1.mk/logo/靖天育乐台.png" group-title="港澳台",靖天育樂台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.v1.mk/logo/靖天资讯台.png" group-title="其他",靖天資訊台
+#EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.v1.mk/logo/靖天资讯台.png" group-title="港澳台",靖天資訊台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.v1.mk/logo/靖天戏剧台.png" group-title="其他",靖天戲劇台
+#EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.v1.mk/logo/靖天戏剧台.png" group-title="港澳台",靖天戲劇台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="其他",靖洋戲劇台
+#EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="港澳台",靖洋戲劇台
 https://jp.eupacn.netlib.re/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.v1.mk/logo/靖天映画.png" group-title="其他",靖天映畫
+#EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.v1.mk/logo/靖天映画.png" group-title="港澳台",靖天映畫
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp5pig55Wr&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="其他",靖天電影台
+#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="港澳台",靖天電影台
 https://jp.eupacn.netlib.re/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
-#EXTINF:-1,tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台KMTV.png" group-title="其他",韓國娛樂台 KMTV
+#EXTINF:-1,tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台KMTV.png" group-title="港澳台",韓國娛樂台 KMTV
 https://jp.eupacn.netlib.re/?id=6ZaT5ZyL5aib5qiC5YawIEtNVFYx&auth=a0d293b30c3bb3b3fea52ac94076ba25964f466943fea02fd52f0aaca1e41f7fbe0613318039d1aafc85441c20a6b9d6
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.v1.mk/logo/福建综合.png" group-title="福建",福建综合
 http://27.148.240.185/PLTV/88888888/224/3221226722/1.m3u8
@@ -237,6 +237,10 @@ http://27.148.240.185/PLTV/88888888/224/3221226835/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221227363/1.m3u8
 #EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://epg.v1.mk/logo/福建电视剧.png" group-title="福建",福建电视剧
 http://27.148.240.185/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="福建",凤凰卫视资讯台
+http://27.148.240.185/PLTV/88888888/224/3221226929/1.m3u8
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="福建",凤凰卫视中文台
+http://27.148.240.185/PLTV/88888888/224/3221226980/1.m3u8
 #EXTINF:-1,tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://epg.v1.mk/logo/福建公共.png" group-title="福建",福建公共
 http://27.148.240.185/PLTV/88888888/224/3221226928/1.m3u8
 #EXTINF:-1,tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://epg.v1.mk/logo/福建教育.png" group-title="福建",福建教育
@@ -413,9 +417,9 @@ http://27.148.240.185/PLTV/88888888/224/3221227332/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221227335/1.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://27.148.240.185/PLTV/88888888/224/3221227344/1.m3u8
-#EXTINF:-1,tvg-id="北京卫视4" tvg-name="北京卫视4" tvg-logo="https://epg.v1.mk/logo/北京卫视4.png" group-title="北京",北京卫视4K
+#EXTINF:-1,tvg-id="北京卫视4" tvg-name="北京卫视4" tvg-logo="https://epg.v1.mk/logo/北京卫视4.png" group-title="卫视",北京卫视4K
 http://27.148.240.185/PLTV/88888888/224/3221227310/1.m3u8
-#EXTINF:-1,tvg-id="广东卫视4" tvg-name="广东卫视4" tvg-logo="https://epg.v1.mk/logo/广东卫视4.png" group-title="广东",广东卫视4K
+#EXTINF:-1,tvg-id="广东卫视4" tvg-name="广东卫视4" tvg-logo="https://epg.v1.mk/logo/广东卫视4.png" group-title="卫视",广东卫视4K
 http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视4" tvg-name="深圳卫视4" tvg-logo="https://epg.v1.mk/logo/深圳卫视4.png" group-title="卫视",深圳卫视4K
 http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8
